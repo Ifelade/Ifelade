@@ -4,12 +4,12 @@
   <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-informational" />
 </p>
 
-I'm a Software Engineering graduate (BSc Hons, Second Class Upper — Babcock University) currently working as a **SOC Analyst Intern** at the Ministry of Innovation, Science and Technology, Nigeria. I build hands-on blue team skills through real-world SOC work, structured training, and home lab experimentation.**.  
+I'm a Software Engineering graduate (BSc Hons, Second Class Upper — Babcock University) currently working as a **SOC Analyst Intern** at the Ministry of Innovation, Science and Technology, Nigeria. I build hands-on blue team skills through real-world SOC work, structured training, and home lab experimentation. 
 
 ---
 
 ### 🎯 Objective  
-To grow as a **SOC Analyst**, applying my hands-on experience in threat detection, log analysis, vulnerability assessment, and incident response to protect organizations from evolving cyber threats.**.  
+To grow as a **SOC Analyst**, applying my hands-on experience in threat detection, log analysis, vulnerability assessment, and incident response to protect organizations from evolving cyber threats.  
 
 ---
 
